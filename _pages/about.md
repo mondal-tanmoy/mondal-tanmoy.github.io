@@ -7,7 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Researcher in [Mathematical & Electrical Engineering Department](https://www.imt-atlantique.fr/fr/l-ecole/departements-d-enseignement-recherche/mathematical-electrical-engineering?arg=7430_1) team at [École Nationale de Mines-Télécom, Atlantique, Brest](https://www.imt-atlantique.fr/fr) (Oct. 2020 - Now). Previously, I was Researchers at:
+I am a Research Scientist in [INNOVATION](https://www.vogo-group.com) team at [VOGO](https://www.vogo-group.com) (January. 2023 - Now). Previously, I was Researchers at:
+
+* In [Bioinformatics Institute](https://www.a-star.edu.sg/bii) and was a member of [Computer Vision and Pattern Discovery](https://www.a-star.edu.sg/bii/research/ciid/cvpd) team at [Agency for Science and Technology](https://www.a-star.edu.sg/)  (June. 2022 - December 2022)
+
+* In [Mathematical & Electrical Engineering Department](https://www.imt-atlantique.fr/fr/l-ecole/departements-d-enseignement-recherche/mathematical-electrical-engineering?arg=7430_1) team at  [École Nationale de Mines-Télécom, Atlantique, Brest](https://www.imt-atlantique.fr/fr) (Oct. 2020 - April 2022)
 
 * In [ZENITH](https://team.inria.fr/zenith/) team at [INRIA Sophia-Antipolis](https://www.inria.fr/fr/centre-inria-sophia-antipolis-mediterranee) at their [Montpellier wing](https://www.google.com/search?q=inria%2C+montpellier&sxsrf=AOaemvJaR5v4G-szLEJaNls757WqX4ihEg%3A1631778772308&source=hp&ei=1PdCYYbDD8WKlwSC1YLwDQ&iflsig=ALs-wAMAAAAAYUMF5AbBauFvZluByi5exxQBjyjpV-bk&oq=inria%2C+montpellier&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECc6BwgjEOoCECc6BggjECcQEzoECC4QQzoKCAAQsQMQgwEQQzoLCAAQgAQQsQMQgwE6CAgAELEDEIMBOgUIABCABDoICC4QsQMQgwE6BAgAEEM6BwguELEDEEM6CAgAEIAEELEDOgsIABCxAxCDARDJAzoFCAAQkgM6CAguEIAEELEDOhAIABCABBCHAhCxAxCDARAUOgsILhCABBCxAxCDAToHCCMQsAIQJ0oFCDwSATFQohpY2FVgk19oAnAAeACAAbECiAGxI5IBCDAuNC4xNC4xmAEAoAEBsAEK&sclient=gws-wiz&ved=0ahUKEwiG_cnQgYPzAhVFxYUKHYKqAN4Q4dUDCAY&uact=5) (Feb. 2019 - May. 2020)
 * In [Images et Contenus](https://l3i.univ-larochelle.fr/Images-et-contenus) team, [L3I](https://l3i.univ-larochelle.fr/) Laboratory at [University of La-Rochelle](https://www.univ-larochelle.fr/) (May. 2017 - Jan. 2019)
