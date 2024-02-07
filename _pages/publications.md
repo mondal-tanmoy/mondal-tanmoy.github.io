@@ -108,7 +108,7 @@ F. Rayar, <u>*Tanmoy Mondal*</u>, S. Barrat, F. Bouali, and G. Venturini<br/>
 [International Conference on Document Analysis and Recognition (ICDAR); 2015](https://iapr.org/archives/icdar2015/index.html); [<u>**(CORE Rank : A)**</u>](http://portal.core.edu.au/conf-ranks/2047/) (IM-PR & TSA-DM)
 
 8. [Exemplary Sequence Cardinality: An effective application for word spotting](https://www.researchgate.net/publication/280084346_Exemplary_Sequence_Cardinality_An_Effective_Application_for_Word_Spotting) <br/>
-<u>*Tanmoy Mondal*</u>, Nicolas Ragot, Jean-Yves Ramel, Umapada Pal <br/>
+*<u>Tanmoy Mondal</u>*, Nicolas Ragot, Jean-Yves Ramel, Umapada Pal <br/>
 [International Conference on Document Analysis and Recognition (ICDAR); 2015](https://iapr.org/archives/icdar2015/index.html); [<u>**(CORE Rank : A)**</u>](http://portal.core.edu.au/conf-ranks/2047/) (IM-PR & TSA-DM)
 
 
