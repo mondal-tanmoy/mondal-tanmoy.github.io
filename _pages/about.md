@@ -21,7 +21,7 @@ I recieved my Ph.D (Nov. 2012 - Dec. 2015) from [RFAI](https://lifat.univ-tours.
 
 Past & Present Associations in Research (during and after Ph.D):
 ------
-  * [Lucas Drumetz](http://www-sop.inria.fr/members/Reza.Akbarinia/), Associate Professor, SC Team, IMT Atlantique
+  * [Lucas Drumetz](https://www.imt-atlantique.fr/fr/personne/lucas-drumetz), Associate Professor, TOMS (Traitement, Observations et Méthodes Statistiques) Team, IMT Atlantique
   * [Reza Akbarinia](http://www-sop.inria.fr/members/Reza.Akbarinia/), Research Scientist at INRIA
   * [Florent Masseglia](https://www.linkedin.com/in/florent-masseglia-22990224/?originalSubdomain=frl), Research Director, INRIA
   * [Mickaël Coustaty](https://l3i.univ-larochelle.fr/Coustaty-Mickael-MCF), Associate Professor at Univ. of La-Rochelle
