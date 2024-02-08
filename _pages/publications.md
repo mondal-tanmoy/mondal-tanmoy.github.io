@@ -11,50 +11,61 @@ I have publications in following two themes/topics of research :
 Hence I have categorized the following list of publications into these two categories
 
 
-## Articles of International Journals
+## Published in International Journals
 
+1. [Identifying Fraudulent Identity Documents by Analyzing Imprinted
+Guilloche Patterns](/files/pdf/journal/Identifying_Fraudulent_Identity_Documents__MTA_.pdf) <br/>
+Musab Al-Ghadi, *<u>Tanmoy Mondal</u>*, Zuheng Ming, Petra Gomez-Krämer, Mickaël Coustaty, Nicolas
+Sidere, Jean-Christophe Burie <br/>
+[Springer Multimedia Tools and Applications](https://link.springer.com/journal/11042) Journal; Volume 37, pages 1055–1089 **(Impact Factor : 3.6)** (IM-PR)
 
-1. [Comparative Study of Conventional Time Series Matching Techniques for Word Spotting](/files/pdf/journal/DTW_PR.pdf) <br/>
-Tanmoy Mondal, Nicolas Ragot, Jean-Yves Ramel, Umapada Pal <br/>
-Elsevier Pattern Recognition (PR); Vol.73: 47-64, 2018 **(Impact Factor : 7.74)** (IM-PR & TSA-DM)
+1. [kNN matrix profile for knowledge discovery from time series](https://www.researchgate.net/publication/368453695_kNN_matrix_profile_for_knowledge_discovery_from_time_series) <br/>
+*<u>Tanmoy Mondal</u>*, Reza Akbarinia, Florent Masseglia <br/>
+[Springer Data Mining and Knowledge Discovery (DMKD)](https://link.springer.com/journal/10618) Journal; Volume 37, pages 1055–1089 **(Impact Factor : 5.7)** (TSA-DM)
 
-2.  [Flexible Sequence Matching Technique: An Effective Learning-Free Approach for Word Spotting](/files/pdf/journal/FSM_PR.pdf) <br/>
-Tanmoy Mondal, Nicolas Ragot, Jean-Yves Ramel, Umapada Pal <br/>
-Elsevier Pattern Recognition (PR); Vol.60: 596-612, 2016 **(Impact Factor : 7.74)** (IM-PR & TSA-DM)
+1. [Exploring Multi-Tasking Learning in Document Attribute Classification](https://www.researchgate.net/publication/358951849_Exploring_Multi-Tasking_Learning_in_Document_Attribute_Classification) <br/>
+*<u>Tanmoy Mondal</u>*, Abhijit Das, Zuheng Ming <br/>
+[Elsevier Pattern Recognition Letters (PRL) Journal](https://www.sciencedirect.com/journal/pattern-recognition-letters); Volume 157, 2022, Pages 49-59; **(Impact Factor : 5.1)** (IM-PR)
 
-3. [Craniofacial Structure Detection on Cephalometric Images](/files/pdf/journal/TIP.pdf) <br/>
-Tanmoy Mondal, Ashish Jain, H.K Sardana <br/> IEEE Transactions on Image Processing (TIP), PP 1057-7149, Issue. 99ISSN, 2011 **(Impact Factor : 10.85)** (IM-PR)
+1. [Comparative Study of Conventional Time Series Matching Techniques for Word Spotting](https://www.researchgate.net/publication/318687855_Comparative_Study_of_Conventional_Time_Series_Matching_Techniques_for_Word_Spotting) <br/>
+*<u>Tanmoy Mondal</u>*, Nicolas Ragot, Jean-Yves Ramel, Umapada Pal <br/>
+[Elsevier Pattern Recognition (PR)](https://www.sciencedirect.com/journal/pattern-recognition); Vol.73: 47-64, 2018 **(Impact Factor : 8)** (IM-PR & TSA-DM)
+
+1.  [Flexible Sequence Matching Technique: An Effective Learning-Free Approach for Word Spotting](/files/pdf/journal/FSM_PR.pdf) <br/>
+*<u>Tanmoy Mondal</u>*, Nicolas Ragot, Jean-Yves Ramel, Umapada Pal <br/>
+[Elsevier Pattern Recognition (PR)](https://www.sciencedirect.com/journal/pattern-recognition); Vol.60: 596-612, 2016 **(Impact Factor : 8)** (IM-PR & TSA-DM)
+
+1. [Craniofacial Structure Detection on Cephalometric Images](https://www.researchgate.net/publication/50850410_Automatic_Craniofacial_Structure_Detection_on_Cephalometric_Images) <br/>
+*<u>Tanmoy Mondal</u>*, Ashish Jain, H.K Sardana <br/> [IEEE Transactions on Image Processing (TIP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83), PP 1057-7149, Issue. 99ISSN, 2011 **(Impact Factor : 10.6)** (IM-PR)
 
 
 ### Under Review
 
-1. [Matrix Profile Based kNN Search over Large Time Series](/files/pdf/journal/kNN_Matrix_Profile.pdf) <br/>
-Tanmoy Mondal, Reza Akbarinia, Florent Masseglia <br/>
-Submitted in : Springer Data Mining and Knowledge Discovery (DMKD) Journal; **(Impact Factor : 3.67)** (TSA-DM)
-
-2. [Exploring Multi-Tasking Learning in Document Attribute Classification](/files/pdf/journal/font_recog.pdf) <br/>
-Tanmoy Mondal, Abhijit Das, Zuheng Ming <br/>
-Submitted in : Elsevier Pattern Recognition Letters (PRL) Journal; **(Impact Factor : 3.75)** (IM-PR)
-
+1. [Multi-task Learning for the Classification of Papyrus Manuscripts and Symbols](https://www.researchgate.net/publication/50850410_Automatic_Craniofacial_Structure_Detection_on_Cephalometric_Images) <br/>
+Himanshu Srivastava, *<u>Tanmoy Mondal</u>*<br/> Submitted in [Elsevier Pattern Recognition Letters (PRL) Journal](https://www.sciencedirect.com/journal/pattern-recognition-letters) **(Impact Factor : 5.1)** (IM-PR)
 
 
 ### Ongoing Work on Journal Drafts
 
+1. [Efficient Matrix Profile Algorithms for Knowledge Discovery from Time Series](/files/pdf/journal/kNN_Matrix_Profile.pdf) <br/>
+*<u>Tanmoy Mondal</u>*, Reza Akbarinia, Florent Masseglia <br/>
+Will be submitted in: [Springer Data Mining and Knowledge Discovery (DMKD)](https://link.springer.com/journal/10618) Journal; **(Impact Factor : 5.7)** (TSA-DM)
+
+
+1. [Matrix Profile Based kNN Search over Large Multi-Dimensional Time Series](/files/pdf/journal/multi_dims.pdf) <br/>
+*<u>Tanmoy Mondal</u>*, Reza Akbarinia, Florent Masseglia <br/>
+Will be submitted in: [Springer Data Mining and Knowledge Discovery (DMKD)](https://link.springer.com/journal/10618) Journal; **(Impact Factor : 5.7)** (TSA-DM)
+
+
 1. [Logo Localization of Administrative Documents](/files/pdf/journal/LogoLocalization.pdf) <br/>
-Tanmoy Mondal, Alireza Alaei <br/>
-Will be submitted in: Pattern Recognition (PR) Journal; **(Impact Factor : 7.74)** (Probable submission date : April., 2022) (IM-PR)
+*<u>Tanmoy Mondal</u>*, Alireza Alaei <br/>
+Will be submitted in: [Elsevier Pattern Recognition (PR)](https://www.sciencedirect.com/journal/pattern-recognition) Journal; **(Impact Factor : 8)** (IM-PR)
 
-2. [Matrix Profile Based kNN Search over Large Multi-Dimensional Time Series](/files/pdf/journal/multi_dims.pdf) <br/>
-Tanmoy Mondal, Reza Akbarinia, Florent Masseglia <br/>
-Will be submitted in: IEEE Transactions on Knowledge and Data Engineering (TKDE) Journal; **(Impact Factor : 6.99)** (TSA-DM)
-
-3. [Efficient Matrix Profile Algorithms for Knowledge Discovery from Time Series](/files/pdf/journal/AAMP_Journal.pdf) <br/>
-Tanmoy Mondal, Reza Akbarinia, Florent Masseglia <br/>
-Will be submitted in: IEEE Transactions on Knowledge and Data Engineering (TKDE) Journal; **(Impact Factor : 6.99)** (TSA-DM)
-
-4. Automatic Smart Phone Based Recognition of Data Matrix on Laboratory Bottles <br/>
+<!-- 4. Automatic Smart Phone Based Recognition of Data Matrix on Laboratory Bottles <br/>
 Tanmoy Mondal, Stéphan Brés, Véronique Eglin <br/>
-Will be submitted in: IEEE Transaction of Image Processing (TIP); **(Impact Factor : 10.85)** (Probable submission date : May., 2022) (IM-PR)
+Will be submitted in: IEEE Transaction of Image Processing (TIP); **(Impact Factor : 10.85)** (Probable submission date : May., 2022) (IM-PR) -->
+
+
 
 
 ## Publication in International Conferences
@@ -64,18 +75,16 @@ Will be submitted in: IEEE Transaction of Image Processing (TIP); **(Impact Fact
 * [CORE Rank B](http://portal.core.edu.au/conf-ranks/) : Taux d’acceptation 37.24%
 
 
-### Under Review
 
-1. [Efficient Matrix Profile Algorithms for Normalized and Non-Normalized Distances](https://github.com/anoynymREVIEW/Materials_Only/blob/main/KDD_2022.pdf) <br/> Reza Akbarinia, Bertrand Cloez, Tanmoy Mondal, Florent Masseglia <br/>
-Submitted in: SIGKDD Conference on knowledge discovery and data mining (SIGKDD/ECML); 2022; **(CORE Rank : A*)** (TSA-DM)
 
-### Ongoing Drafts
+### Archive Submission
 
-1. Physics Informed and Data Driven Simulation of Underwater Images via Residual Learning <br/>
-*<u>Tanmoy Mondal</u>*, Lucas Drumetz, Ricardo Mendoza <br/> 
+1. [Physics Informed and Data Driven Simulation of Underwater Images via Residual Learning](/files/pdf/conf/eccv2022submission_ver_1.pdf) <br/>
+*<u>Tanmoy Mondal</u>*, Lucas Drumetz, Ricardo Mendoza; (IM-PR)
 
 <!-- Will be submitted in: European Conference on Computer Vision (ECCV); 2022; **(CORE Rank : A*)** (IM-PR) -->
 
+2. [Efficient Matrix Profile Algorithms for Normalized and Non-Normalized Distances](/files/pdf/conf/KDD_Ver_1.pdf) <br/> Reza Akbarinia, Bertrand Cloez, *<u>Tanmoy Mondal</u>*, Florent Masseglia; (TSA-DM)
 
 
 ### Published
