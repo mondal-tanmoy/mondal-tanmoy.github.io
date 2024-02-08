@@ -19,23 +19,23 @@ Musab Al-Ghadi, *<u>Tanmoy Mondal</u>*, Zuheng Ming, Petra Gomez-Krämer, Micka�
 Sidere, Jean-Christophe Burie <br/>
 [Springer Multimedia Tools and Applications](https://link.springer.com/journal/11042) Journal; Volume 37, pages 1055–1089 **(Impact Factor : 3.6)** (IM-PR)
 
-1. [kNN matrix profile for knowledge discovery from time series](https://www.researchgate.net/publication/368453695_kNN_matrix_profile_for_knowledge_discovery_from_time_series) <br/>
+2. [kNN matrix profile for knowledge discovery from time series](https://www.researchgate.net/publication/368453695_kNN_matrix_profile_for_knowledge_discovery_from_time_series) <br/>
 *<u>Tanmoy Mondal</u>*, Reza Akbarinia, Florent Masseglia <br/>
 [Springer Data Mining and Knowledge Discovery (DMKD)](https://link.springer.com/journal/10618) Journal; Volume 37, pages 1055–1089 **(Impact Factor : 5.7)** (TSA-DM)
 
-1. [Exploring Multi-Tasking Learning in Document Attribute Classification](https://www.researchgate.net/publication/358951849_Exploring_Multi-Tasking_Learning_in_Document_Attribute_Classification) <br/>
+3. [Exploring Multi-Tasking Learning in Document Attribute Classification](https://www.researchgate.net/publication/358951849_Exploring_Multi-Tasking_Learning_in_Document_Attribute_Classification) <br/>
 *<u>Tanmoy Mondal</u>*, Abhijit Das, Zuheng Ming <br/>
 [Elsevier Pattern Recognition Letters (PRL) Journal](https://www.sciencedirect.com/journal/pattern-recognition-letters); Volume 157, 2022, Pages 49-59; **(Impact Factor : 5.1)** (IM-PR)
 
-1. [Comparative Study of Conventional Time Series Matching Techniques for Word Spotting](https://www.researchgate.net/publication/318687855_Comparative_Study_of_Conventional_Time_Series_Matching_Techniques_for_Word_Spotting) <br/>
+4. [Comparative Study of Conventional Time Series Matching Techniques for Word Spotting](https://www.researchgate.net/publication/318687855_Comparative_Study_of_Conventional_Time_Series_Matching_Techniques_for_Word_Spotting) <br/>
 *<u>Tanmoy Mondal</u>*, Nicolas Ragot, Jean-Yves Ramel, Umapada Pal <br/>
 [Elsevier Pattern Recognition (PR)](https://www.sciencedirect.com/journal/pattern-recognition); Vol.73: 47-64, 2018 **(Impact Factor : 8)** (IM-PR & TSA-DM)
 
-1.  [Flexible Sequence Matching Technique: An Effective Learning-Free Approach for Word Spotting](/files/pdf/journal/FSM_PR.pdf) <br/>
+5.  [Flexible Sequence Matching Technique: An Effective Learning-Free Approach for Word Spotting](/files/pdf/journal/FSM_PR.pdf) <br/>
 *<u>Tanmoy Mondal</u>*, Nicolas Ragot, Jean-Yves Ramel, Umapada Pal <br/>
 [Elsevier Pattern Recognition (PR)](https://www.sciencedirect.com/journal/pattern-recognition); Vol.60: 596-612, 2016 **(Impact Factor : 8)** (IM-PR & TSA-DM)
 
-1. [Craniofacial Structure Detection on Cephalometric Images](https://www.researchgate.net/publication/50850410_Automatic_Craniofacial_Structure_Detection_on_Cephalometric_Images) <br/>
+6. [Craniofacial Structure Detection on Cephalometric Images](https://www.researchgate.net/publication/50850410_Automatic_Craniofacial_Structure_Detection_on_Cephalometric_Images) <br/>
 *<u>Tanmoy Mondal</u>*, Ashish Jain, H.K Sardana <br/> [IEEE Transactions on Image Processing (TIP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83), PP 1057-7149, Issue. 99ISSN, 2011 **(Impact Factor : 10.6)** (IM-PR)
 
 
@@ -52,12 +52,12 @@ Himanshu Srivastava, *<u>Tanmoy Mondal</u>*<br/> Submitted in [Elsevier Pattern 
 Will be submitted in: [Springer Data Mining and Knowledge Discovery (DMKD)](https://link.springer.com/journal/10618) Journal; **(Impact Factor : 5.7)** (TSA-DM)
 
 
-1. [Matrix Profile Based kNN Search over Large Multi-Dimensional Time Series](/files/pdf/journal/multi_dims.pdf) <br/>
+2. [Matrix Profile Based kNN Search over Large Multi-Dimensional Time Series](/files/pdf/journal/multi_dims.pdf) <br/>
 *<u>Tanmoy Mondal</u>*, Reza Akbarinia, Florent Masseglia <br/>
 Will be submitted in: [Springer Data Mining and Knowledge Discovery (DMKD)](https://link.springer.com/journal/10618) Journal; **(Impact Factor : 5.7)** (TSA-DM)
 
 
-1. [Logo Localization of Administrative Documents](/files/pdf/journal/LogoLocalization.pdf) <br/>
+3. [Logo Localization of Administrative Documents](/files/pdf/journal/LogoLocalization.pdf) <br/>
 *<u>Tanmoy Mondal</u>*, Alireza Alaei <br/>
 Will be submitted in: [Elsevier Pattern Recognition (PR)](https://www.sciencedirect.com/journal/pattern-recognition) Journal; **(Impact Factor : 8)** (IM-PR)
 
