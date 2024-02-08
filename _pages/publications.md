@@ -84,7 +84,7 @@ Will be submitted in: IEEE Transaction of Image Processing (TIP); **(Impact Fact
 
 <!-- Will be submitted in: European Conference on Computer Vision (ECCV); 2022; **(CORE Rank : A*)** (IM-PR) -->
 
-2. [Efficient Matrix Profile Algorithms for Normalized and Non-Normalized Distances](/files/pdf/conf/KDD_Ver_1.pdf) <br/> Reza Akbarinia, Bertrand Cloez, *<u>Tanmoy Mondal</u>*, Florent Masseglia; (TSA-DM)
+2.  [Efficient Matrix Profile Algorithms for Normalized and Non-Normalized Distances](/files/pdf/conf/KDD_Ver_1.pdf) <br/> Reza Akbarinia, Bertrand Cloez, *<u>Tanmoy Mondal</u>*, Florent Masseglia; (TSA-DM)
 
 
 ### Published
