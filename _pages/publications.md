@@ -41,7 +41,7 @@ Sidere, Jean-Christophe Burie <br/>
 
 ### Under Review
 
-1. [Multi-task Learning for the Classification of Papyrus Manuscripts and Symbols](https://www.researchgate.net/publication/50850410_Automatic_Craniofacial_Structure_Detection_on_Cephalometric_Images) <br/>
+1. Multi-task Learning for the Classification of Papyrus Manuscripts and Symbols <br/>
 Himanshu Srivastava, *<u>Tanmoy Mondal</u>*<br/> Submitted in [Elsevier Pattern Recognition Letters (PRL) Journal](https://www.sciencedirect.com/journal/pattern-recognition-letters) **(Impact Factor : 5.1)** (IM-PR)
 
 
@@ -70,16 +70,16 @@ Will be submitted in: IEEE Transaction of Image Processing (TIP); **(Impact Fact
 
 ## Publication in International Conferences
 
-* [CORE Rank A*](http://portal.core.edu.au/conf-ranks/) : Taux d’acceptation 7.15%
-* [CORE Rank A](http://portal.core.edu.au/conf-ranks/) : Taux d’acceptation 15.91%
-* [CORE Rank B](http://portal.core.edu.au/conf-ranks/) : Taux d’acceptation 37.24%
+* [CORE Rank A*](http://portal.core.edu.au/conf-ranks/) : Acceptance rate 7.15%
+* [CORE Rank A](http://portal.core.edu.au/conf-ranks/) : Acceptance rate 15.91%
+* [CORE Rank B](http://portal.core.edu.au/conf-ranks/) : Acceptance rate 37.24%
 
 
 
 
 ### Archive Submission
 
-1. [Physics Informed and Data Driven Simulation of Underwater Images via Residual Learning](/files/pdf/conf/eccv2022submission_ver_1.pdf) <br/>
+1. [Physics Informed and Data Driven Simulation of Underwater Images via Residual Learning](https://arxiv.org/abs/2402.05281) <br/>
 *<u>Tanmoy Mondal</u>*, Lucas Drumetz, Ricardo Mendoza; (IM-PR)
 
 <!-- Will be submitted in: European Conference on Computer Vision (ECCV); 2022; **(CORE Rank : A*)** (IM-PR) -->
