@@ -8,7 +8,12 @@ I have publications in following two themes/topics of research :
 1. Image Processing and Pattern Recognition (IM-PR)
 2. Time Series Analysis and Data Mining (TSA-DM)
 
-Hence I have categorized the following list of publications into these two categories
+Hence I have categorized the following list of publications into these two categories.
+
+<font size="4"> To see my DBLP profile : [see here](https://dblp.org/pid/30/10490.html) </font>
+
+<font size="4"> To see my Google Scholar profile : [see here](https://scholar.google.com/citations?hl=fr&user=Z7ogDD4AAAAJ&view_op=list_works&gmla=AILGF5Wo-k_JvkmAORGOoA_BaIjx7UOcIKCnMTGexrGScpJxrA-US8UOFvpTey3I7Ewo-0SloV3HvGg5r810BdVWFq3j-uV_TWO67N7nLfVMpfwYyQ) </font>
+
 
 
 ## Published in International Journals
