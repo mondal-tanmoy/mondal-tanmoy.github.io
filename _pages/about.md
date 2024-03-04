@@ -53,6 +53,7 @@ Research Experiences in Companies and Public Laboratories (before Ph.D)
 ------
 <button onclick="window.location.href='/files/Thesis/PhD_Thesis.pdf';">Download</button>
 
+<!--- 
 # Teaching Statement
 ------
 <button onclick="window.location.href='/files/statements/teaching-statement_india.pdf';">Download</button>
@@ -60,4 +61,4 @@ Research Experiences in Companies and Public Laboratories (before Ph.D)
 # Research Statement
 ------
 <button onclick="window.location.href='/files/statements/research-statement.pdf';">Download</button>
-
+-->
