@@ -9,7 +9,10 @@ redirect_from:
 ---
 I am a Research Scientist in [INNOVATION](https://www.vogo-group.com) team at [VOGO](https://www.vogo-group.com) (January. 2023 - Now). Previously, I was Researchers at:
 
+<!---
 * In [Bioinformatics Institute](https://www.a-star.edu.sg/bii) and was a member of [Computer Vision and Pattern Discovery](https://www.a-star.edu.sg/bii/research/ciid/cvpd) team at [Agency for Science and Technology](https://www.a-star.edu.sg/)  (June. 2022 - December 2022)
+-->
+
 
 * In [Observations, Signals and Environment (OSE)](https://labsticc.fr/fr/equipes/ose) team at  [École Nationale de Mines-Télécom, Atlantique, Brest](https://www.imt-atlantique.fr/fr) (Oct. 2020 - April 2022)
 
@@ -41,9 +44,11 @@ Research Experiences in Companies and Public Laboratories (before Ph.D)
 * Project Engineer, [GIST](https://www.cdac.in/index.aspx?id=gist), [Center for Development of Advanced Computing (CDAC)](https://www.cdac.in/) (June 2010 - June 2011), Pune, India
 * Research Fellow, Computational Instrumentation Unit, [Central Scientific Instruments Org.](https://www.csio.res.in/) [(CSIR)](https://www.csir.res.in/) (Aug. 2008 - June 2010), Chandigarh, India
 
+<!---
 # Resume
 ------
 <button onclick="window.location.href='/files/CV/main.pdf';">Download</button>
+-->
 
 # Masters Thesis
 ------
