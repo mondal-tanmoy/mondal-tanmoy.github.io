@@ -44,11 +44,11 @@ Research Experiences in Companies and Public Laboratories (before Ph.D)
 * Project Engineer, [GIST](https://www.cdac.in/index.aspx?id=gist), [Center for Development of Advanced Computing (CDAC)](https://www.cdac.in/) (June 2010 - June 2011), Pune, India
 * Research Fellow, Computational Instrumentation Unit, [Central Scientific Instruments Org.](https://www.csio.res.in/) [(CSIR)](https://www.csir.res.in/) (Aug. 2008 - June 2010), Chandigarh, India
 
-<!---
+
 # Resume
 ------
 <button onclick="window.location.href='/files/CV/main.pdf';">Download</button>
--->
+
 
 # Masters Thesis
 ------
