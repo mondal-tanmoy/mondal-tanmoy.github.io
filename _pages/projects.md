@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-In the following section, I have explained the projects or topics which I am or would like to work on. These topics are divided into two catagories :
+In the following section, I have explained the projects or topics that I am or would like to work on. These topics are divided into two categories:
 
 * Masters projects
   * Specialization : Machine Learning
@@ -13,8 +13,8 @@ In the following section, I have explained the projects or topics which I am or 
   * Specialization : Cloud Computing
   * Specialization : Software Engineering
   * Specialization : E-Services
-  * Specialization : Virtual Reality  and Computer Vision
+  * Specialization : Virtual Reality and Computer Vision
 * PhD and Post-Doc topics
-  * Computer Vision and Image Proecssing
+  * Computer Vision and Image Processing
   * Time Series Analysis
   * Robotics
