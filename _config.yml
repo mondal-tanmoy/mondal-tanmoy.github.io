@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tanmoy Mondal"
   avatar           : "profile.png"
-  bio              : "Enthusiastic Researcher & Entrepreneur"
-  location         : "Montpellier, France"
+  bio              : "Associate Professor and Enthusiastic about Entrepreneurship"
+  location         : "Lille, France"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : tanmoy.mondal@imt-atlantique.fr
+  email            : tanmoy.mondal@univ-lille.fr
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
