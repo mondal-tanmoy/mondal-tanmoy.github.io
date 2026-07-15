@@ -7,20 +7,25 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Research Scientist in [INNOVATION](https://www.vogo-group.com) team at [VOGO](https://www.vogo-group.com) (January. 2023 - Now). Previously, I was Researchers at:
+I am an Associate Professor in the [FOX](https://www.cristal.univ-lille.fr/FOX/index.html) team at [CRIStAL](https://www.cristal.univ-lille.fr/) laboratory, and I teach bachelor's and master's students at the [Department of Computer Science](https://sciences-technologies.univ-lille.fr/informatique) at the [University of Lille](https://sciences-technologies.univ-lille.fr/)  (September. 2024 - Present).  
+
+Previously, I worked at:
 
 <!---
 * In [Bioinformatics Institute](https://www.a-star.edu.sg/bii) and was a member of [Computer Vision and Pattern Discovery](https://www.a-star.edu.sg/bii/research/ciid/cvpd) team at [Agency for Science and Technology](https://www.a-star.edu.sg/)  (June. 2022 - December 2022)
 -->
 
+* Worked as a **Research Scientist**  in the [INNOVATION](https://www.vogo-group.com) team at  [VOGO](https://www.vogo-group.com) (**1 year and 4 months :** January. 2023 - April 2024)
 
-* In [Observations, Signals and Environment (OSE)](https://labsticc.fr/fr/equipes/ose) team at  [École Nationale de Mines-Télécom, Atlantique, Brest](https://www.imt-atlantique.fr/fr) (Oct. 2020 - April 2022)
+* Worked as a **Senior Post-Doctoral Researcher** in the [Computer Vision and Pattern Discovery](https://www.a-star.edu.sg/bii/research/ciid/cvpd) team of the [Bioinformatics Institute (BII)](https://www.a-star.edu.sg/bii) unit at the [Agency for Science, Technology and Research (A*STAR), Singapore](https://www.a-star.edu.sg/) (**6 months :** June. 2022 - December 2022)
 
-* In [ZENITH](https://team.inria.fr/zenith/) team at [INRIA Sophia-Antipolis](https://www.inria.fr/fr/centre-inria-sophia-antipolis-mediterranee) at their [Montpellier wing](https://www.google.com/search?q=inria%2C+montpellier&sxsrf=AOaemvJaR5v4G-szLEJaNls757WqX4ihEg%3A1631778772308&source=hp&ei=1PdCYYbDD8WKlwSC1YLwDQ&iflsig=ALs-wAMAAAAAYUMF5AbBauFvZluByi5exxQBjyjpV-bk&oq=inria%2C+montpellier&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECc6BwgjEOoCECc6BggjECcQEzoECC4QQzoKCAAQsQMQgwEQQzoLCAAQgAQQsQMQgwE6CAgAELEDEIMBOgUIABCABDoICC4QsQMQgwE6BAgAEEM6BwguELEDEEM6CAgAEIAEELEDOgsIABCxAxCDARDJAzoFCAAQkgM6CAguEIAEELEDOhAIABCABBCHAhCxAxCDARAUOgsILhCABBCxAxCDAToHCCMQsAIQJ0oFCDwSATFQohpY2FVgk19oAnAAeACAAbECiAGxI5IBCDAuNC4xNC4xmAEAoAEBsAEK&sclient=gws-wiz&ved=0ahUKEwiG_cnQgYPzAhVFxYUKHYKqAN4Q4dUDCAY&uact=5) (Feb. 2019 - May. 2020)
-* In [Images et Contenus](https://l3i.univ-larochelle.fr/Images-et-contenus) team, [L3I](https://l3i.univ-larochelle.fr/) Laboratory at [University of La-Rochelle](https://www.univ-larochelle.fr/) (May. 2017 - Jan. 2019)
-* In [Imagine Team](https://liris.cnrs.fr/equipe/imagine) team, [LIRIS](https://liris.cnrs.fr/) Laboratory at [INSA, Lyon](https://www.insa-lyon.fr/) (July. 2016 - Jan. 2017)
+* Worked as **Post-Doctoral Researcher** in [Observations, Signals and Environment (OSE)](https://labsticc.fr/fr/equipes/ose) team at the [École Nationale de Mines-Télécom, Atlantique, Brest](https://www.imt-atlantique.fr/fr) (**1 year and 6 months** : Oct. 2020 - April 2022)
 
-I recieved my Ph.D (Nov. 2012 - Dec. 2015) from [RFAI](https://lifat.univ-tours.fr/lifat-english-version/teams/rfai) team, [LIFAT](https://lifat.univ-tours.fr/) Lab of [Ecole Polytechnique de l'Université de Tours (EPU)](https://polytech.univ-tours.fr/), under the supervision of: [Nicolas Ragot](https://www.univ-tours.fr/annuaire/m-nicolas-ragot), [Jean-Yves Ramel](https://www.univ-tours.fr/annuaire/m-jean-yves-ramel) and [Umapada Pal](https://www.isical.ac.in/~umapada/index.php).
+* Worked as **Post-Doctoral Researcher** in [ZENITH](https://team.inria.fr/zenith/) team at [INRIA Sophia-Antipolis](https://www.inria.fr/fr/centre-inria-sophia-antipolis-mediterranee) at their [Montpellier wing](https://www.google.com/search?q=inria%2C+montpellier&sxsrf=AOaemvJaR5v4G-szLEJaNls757WqX4ihEg%3A1631778772308&source=hp&ei=1PdCYYbDD8WKlwSC1YLwDQ&iflsig=ALs-wAMAAAAAYUMF5AbBauFvZluByi5exxQBjyjpV-bk&oq=inria%2C+montpellier&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECc6BwgjEOoCECc6BggjECcQEzoECC4QQzoKCAAQsQMQgwEQQzoLCAAQgAQQsQMQgwE6CAgAELEDEIMBOgUIABCABDoICC4QsQMQgwE6BAgAEEM6BwguELEDEEM6CAgAEIAEELEDOgsIABCxAxCDARDJAzoFCAAQkgM6CAguEIAEELEDOhAIABCABBCHAhCxAxCDARAUOgsILhCABBCxAxCDAToHCCMQsAIQJ0oFCDwSATFQohpY2FVgk19oAnAAeACAAbECiAGxI5IBCDAuNC4xNC4xmAEAoAEBsAEK&sclient=gws-wiz&ved=0ahUKEwiG_cnQgYPzAhVFxYUKHYKqAN4Q4dUDCAY&uact=5) (**1 year and 4 months** : Feb. 2019 - May. 2020)
+* Worked as **Post-Doctoral Researcher** in [Images et Contenus](https://l3i.univ-larochelle.fr/Images-et-contenus) team, [L3I](https://l3i.univ-larochelle.fr/) Laboratory at [University of La-Rochelle](https://www.univ-larochelle.fr/) (**1 year and 9 months** : May. 2017 - Jan. 2019)
+* Worked as **Post-Doctoral Researcher** in [Imagine](https://liris.cnrs.fr/equipe/imagine) team, [LIRIS](https://liris.cnrs.fr/) Laboratory at [INSA, Lyon](https://www.insa-lyon.fr/) ( **7 Months** : July. 2016 - Jan. 2017)
+
+I received my Ph.D (Nov. 2012 - Dec. 2015) from [RFAI](https://lifat.univ-tours.fr/lifat-english-version/teams/rfai) team, [LIFAT](https://lifat.univ-tours.fr/) Lab of [Ecole Polytechnique de l'Université de Tours (EPU)](https://polytech.univ-tours.fr/), under the supervision of: [Nicolas Ragot](https://www.univ-tours.fr/annuaire/m-nicolas-ragot), [Jean-Yves Ramel](https://www.univ-tours.fr/annuaire/m-jean-yves-ramel) and [Umapada Pal](https://www.isical.ac.in/~umapada/index.php).
 
 Past & Present Associations in Research (during and after Ph.D):
 ------
@@ -39,10 +44,10 @@ Past & Present Associations in Research (during and after Ph.D):
 
 Research Experiences in Companies and Public Laboratories (before Ph.D)
 ------
-* Technical Lead, Computer Vision Group, [iGATE (Capgemini Enterprises)](https://www.capgemini.com/news/capgemini-to-acquire-igate/) (Avril 2012 - Oct. 2012), Pune, India
-* Imaging Scientist, [Oxyent-Medical Pvt. Ltd.](https://www.linkedin.com/company/oxyent-medical/about/) (June, 2011 - March 2012), Mumbai, India
-* Project Engineer, [GIST](https://www.cdac.in/index.aspx?id=gist), [Center for Development of Advanced Computing (CDAC)](https://www.cdac.in/) (June 2010 - June 2011), Pune, India
-* Research Fellow, Computational Instrumentation Unit, [Central Scientific Instruments Org.](https://www.csio.res.in/) [(CSIR)](https://www.csir.res.in/) (Aug. 2008 - June 2010), Chandigarh, India
+* Technical Lead, Computer Vision Group, [iGATE (Capgemini Enterprises)](https://www.capgemini.com/news/capgemini-to-acquire-igate/) (**6 Months** : Avril 2012 - Oct. 2012), Pune, India
+* Imaging Scientist, [Oxyent-Medical Pvt. Ltd.](https://www.linkedin.com/company/oxyent-medical/about/) (**10 Months**: June, 2011 - March 2012), Mumbai, India
+* Project Engineer, [GIST](https://www.cdac.in/index.aspx?id=gist), [Center for Development of Advanced Computing (CDAC)](https://www.cdac.in/) (**1 year** : June 2010 - June 2011), Pune, India
+* Research Fellow, Computational Instrumentation Unit, [Central Scientific Instruments Org.](https://www.csio.res.in/) [(CSIR)](https://www.csir.res.in/) (**1 year 10 months** : Aug. 2008 - June 2010), Chandigarh, India
 
 
 # Resume
